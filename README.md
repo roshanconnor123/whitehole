@@ -25,6 +25,10 @@
 
 <!-- ---------- Description ---------- -->
 
+> [!Note]
+> This project is now deprecated. Thanks to all who who used and/or contributed to Whitehole!
+
+
 ## Features
 
 - [x] Create and manage backups
@@ -34,7 +38,7 @@
 - [x] Written in Jetpack Compose
 - [x] Entirely Open Source
 
-> [!Note]
+> [!Important]
 > This app requires access to a Telegram bot to manage your photos, keeping you in charge of your data and privacy. The bot and its owner are responsible for all operations(upload, download etc.) to and from Telegram and this app is just a client to interact with the bot. This app is not meant to and does not endorse spam or any other malicious activities. Please use it responsibly.
 
 <!-- ---------- Download ---------- -->
